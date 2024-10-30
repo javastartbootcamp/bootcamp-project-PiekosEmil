@@ -58,7 +58,7 @@
 
         <a th:href="|/szkolenie/${nextTrainingUrl}/${nextTrainingId}|" th:if="${nextTrainingId != null}"
            class="d-none d-md-block">
-            <button class="btn btn-primary">
+            <button class="btn btn-primary" sec:authorize="${!isAuthenticated()}">
                 Zapisz się
             </button>
         </a>
