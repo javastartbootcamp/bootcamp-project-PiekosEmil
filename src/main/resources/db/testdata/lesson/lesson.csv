@@ -4,3 +4,6 @@ id;training_id;title;number;lesson_date;link_to_slack;video_links;sort_order;vis
 4;1;Programowanie obiektowe 3;4;2021-01-18;http://example.com;;300;true
 5;1;Algorytmy;5;2019-01-25;http://example.com;;500;false
 6;1;Tablice i pętle;6;2019-01-21;http://example.com;;400;true
+8;1;Operacje wejścia wyjścia;1;2019-01-30;http://example.com;;100;true
+9;1;Streamy i collectory;1;2019-02-01;http://example.com;;600;true
+10;1;Optymalizacja zapytań JPA;1;2019-02-07;http://example.com;;700;true
